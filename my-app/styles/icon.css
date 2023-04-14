@@ -10,6 +10,10 @@ span.icon {
     background-size: contain;
     background-repeat: no-repeat;
 }
+span.icon.medium {
+    width: 24px;
+    height: 24px;
+}
 span.icon.large {
     width: 36px;
     height: 36px;
@@ -19,4 +23,7 @@ span.icon.large {
 }
 .icon.messenger {
     background-image: url('../pages/assets/images/icons/messanger-svgrepo-com.svg');
+}
+.icon.menu {
+    background-image: url('../pages/assets/images/icons/menu-navigation-grid-1528-svgrepo-com.svg');
 }

@@ -1,0 +1,14 @@
+.mail-header-container {
+    padding: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.mail-header-logo {
+    display: inline-flex;
+    align-items: center;
+    width: 240px;
+}
+.mail-header-logo span {
+    margin: 0 10px;
+}
