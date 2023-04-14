@@ -1,0 +1,22 @@
+.icon-list span {
+    margin: 20px 0;
+}
+
+span.icon {
+    cursor: pointer;
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+span.icon.large {
+    width: 36px;
+    height: 36px;
+}
+.icon.mail {
+    background-image: url('../pages/assets/images/icons/google-gmail-svgrepo-com.svg');
+}
+.icon.messenger {
+    background-image: url('../pages/assets/images/icons/messanger-svgrepo-com.svg');
+}
