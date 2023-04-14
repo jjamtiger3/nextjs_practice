@@ -62,3 +62,19 @@
 .mail-folder .label-wrapper span.icon {
     margin-right: 10px;
 }
+.mail-contents-container {
+    position: relative;
+    padding-left: 280px;
+}
+.mail-contents-container table {
+    width: 100%;
+}
+.mail-contents-container table td.mark {
+    width: 30px;
+}
+.mail-contents-container table td.sender {
+    width: 120px;
+}
+.mail-contents-container table td.send-date {
+    float: right;
+}

@@ -66,3 +66,12 @@ span.icon.large {
 .icon.spam.white {
     background-image: url('../pages/assets/images/icons/spam-svgrepo-com_white.svg');
 }
+.icon.star {
+    background-image: url('../pages/assets/images/icons/star-svgrepo-com.svg');
+}
+.icon.star.fill {
+    background-image: url('../pages/assets/images/icons/star-svgrepo-com_fill.svg');
+}
+.icon.clip {
+    background-image: url('../pages/assets/images/icons/clip-svgrepo-com.svg');
+}
