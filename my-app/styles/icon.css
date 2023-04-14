@@ -36,3 +36,33 @@ span.icon.large {
 .icon.pencil {
     background-image: url('../pages/assets/images/icons/pencil-svgrepo-com.svg');
 }
+.icon.box {
+    background-image: url('../pages/assets/images/icons/box-svgrepo-com.svg');
+}
+.icon.box.white {
+    background-image: url('../pages/assets/images/icons/box-svgrepo-com_white.svg');
+}
+.icon.send {
+    background-image: url('../pages/assets/images/icons/send-svgrepo-com.svg');
+}
+.icon.send.white {
+    background-image: url('../pages/assets/images/icons/send-svgrepo-com_white.svg');
+}
+.icon.important {
+    background-image: url('../pages/assets/images/icons/directory-important-1649-svgrepo-com.svg');
+}
+.icon.important.white {
+    background-image: url('../pages/assets/images/icons/directory-important-1649-svgrepo-com_white.svg');
+}
+.icon.document {
+    background-image: url('../pages/assets/images/icons/document-svgrepo-com.svg');
+}
+.icon.spam {
+    background-image: url('../pages/assets/images/icons/spam-svgrepo-com.svg');
+}
+.icon.document.white {
+    background-image: url('../pages/assets/images/icons/document-svgrepo-com_white.svg');
+}
+.icon.spam.white {
+    background-image: url('../pages/assets/images/icons/spam-svgrepo-com_white.svg');
+}

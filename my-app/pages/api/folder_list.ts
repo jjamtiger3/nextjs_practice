@@ -4,7 +4,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import folderData from './folder_list.json'
 
 type Data = {
-  folderList: IMailFolder[]
+  folder_list: IMailFolder[]
 }
 
 export default function handler(
@@ -12,6 +12,6 @@ export default function handler(
   res: NextApiResponse<Data>
 ) {
   res.status(200).json({ 
-    folderList: folderData.folderList
+    folder_list: folderData.folder_list
   })
 }

@@ -38,6 +38,27 @@
 }
 .mail-write-wrapper {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     padding: 10px;
+}
+.mail-folder-list {
+    margin-top: 10px;
+    width: 100%;
+}
+.mail-folder {
+    cursor: pointer;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.mail-folder.black {
+    color: #fff;
+}
+.mail-folder .label-wrapper {
+    display: flex;
+    align-items: center;
+}
+.mail-folder .label-wrapper span.icon {
+    margin-right: 10px;
 }
