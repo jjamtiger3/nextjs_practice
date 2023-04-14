@@ -78,3 +78,9 @@
 .mail-contents-container table td.send-date {
     float: right;
 }
+.mail-contents-container table tr {
+    cursor: pointer;
+}
+tr.unread td {
+    font-weight: 700;
+}

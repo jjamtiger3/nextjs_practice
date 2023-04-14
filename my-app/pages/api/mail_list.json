@@ -1,0 +1,56 @@
+{
+    "mail_list": [
+        {
+            "id": 1,
+            "important": false,
+            "read": true,
+            "fileList": [],
+            "subject": "오소리에요 just went live on Twitch",
+            "cc": [],
+            "bcc": [],
+            "senderName": "Twitch",
+            "senderAddress": "no-reply@twitch.tv",
+            "receiver": "mr_seois@naver.com",
+            "sendDate": "2023-04-13 16:00"
+        },
+        {
+            "id": 2,
+            "important": false,
+            "read": false,
+            "fileList": [],
+            "subject": "오소리에요 just went live on Twitch",
+            "cc": [],
+            "bcc": [],
+            "senderName": "Twitch",
+            "senderAddress": "no-reply@twitch.tv",
+            "receiver": "mr_seois@naver.com",
+            "sendDate": "2023-04-13 16:00"
+        },
+        {
+            "id": 3,
+            "important": true,
+            "read": true,
+            "fileList": [],
+            "subject": "오소리에요 just went live on Twitch",
+            "cc": [],
+            "bcc": [],
+            "senderName": "Twitch",
+            "senderAddress": "no-reply@twitch.tv",
+            "receiver": "mr_seois@naver.com",
+            "sendDate": "2023-04-13 16:00"
+        },
+        {
+            "id": 4,
+            "important": false,
+            "read": true,
+            "fileList": [],
+            "subject": "오소리에요 just went live on Twitch",
+            "cc": [],
+            "bcc": [],
+            "senderName": "Twitch",
+            "senderAddress": "no-reply@twitch.tv",
+            "receiver": "mr_seois@naver.com",
+            "sendDate": "2023-04-13 16:00"
+        }
+    ]
+}
