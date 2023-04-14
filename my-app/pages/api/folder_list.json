@@ -1,0 +1,29 @@
+{
+    "folderList": [
+        {
+            "id": 1,
+            "label": "받은편지함",
+            "mailCount": 1661
+        },
+        {
+            "id": 2,
+            "label": "보낸편지함",
+            "mailCount": 0
+        },
+        {
+            "id": 3,
+            "label": "중요편지함",
+            "mailCount": 0
+        },
+        {
+            "id": 4,
+            "label": "임시보관함",
+            "mailCount": 5
+        },
+        {
+            "id": 5,
+            "label": "스팸메일함",
+            "mailCount": 100 
+        }
+    ]
+}

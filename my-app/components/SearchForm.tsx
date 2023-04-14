@@ -1,7 +1,6 @@
-import { ISearch } from "./ISearch";
+import { ISearch } from "../interfaces/ISearch";
 
 export default function SearchForm({ ...props }: ISearch) {
-  console.log(props);
   return (
     <div className="search-form-container">
       <div className="search-form-body">
