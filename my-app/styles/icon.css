@@ -27,3 +27,9 @@ span.icon.large {
 .icon.menu {
     background-image: url('../pages/assets/images/icons/menu-navigation-grid-1528-svgrepo-com.svg');
 }
+.icon.menu.white {
+    background-image: url('../pages/assets/images/icons/menu-navigation-grid-1528-svgrepo-com_white.svg');
+}
+.icon.search {
+    background-image: url('../pages/assets/images/icons/search-svgrepo-com.svg');
+}

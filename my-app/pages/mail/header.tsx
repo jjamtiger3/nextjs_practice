@@ -9,7 +9,7 @@ export default function Header() {
     <header>
       <div className="mail-header-container">
         <div className="mail-header-logo">
-          <span className="icon menu medium"></span>
+          <span className="icon menu white medium"></span>
           <span className="icon mail large"></span>
           <span>메일</span>
         </div>
